@@ -1,0 +1,15 @@
+name: Convert to Format
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Convert now
+      run: |
+        tr '\n' ',' < *.txt > std.step1
+        tr '\n' ',' < std.step1 > finished.txt
