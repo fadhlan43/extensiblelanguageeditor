@@ -26,3 +26,15 @@ Special characters:
 , - Value seperator
 -> - Category marker
 
+You can deliver the language set in the unconverted format, so that it will be converted later. ( Eg:
+Example Set
+Made by Blah
+->Category 1
+block
+block
+block
+->Category 2
+blah
+blah
+blah
+

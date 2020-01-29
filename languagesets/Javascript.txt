@@ -1,0 +1,113 @@
+Javascript Language Set
+Made by fadhlan2
+->Basic JS
+;
+function @(@) {
+}
+->String Operators
+concat(@) 
+indexOf(@) 
+join(@) 
+lastIndexOf(@) 
+pop(@) 
+push(@) 
+reverse(@) 
+shift(@) 
+slice(@) 
+sort(@) 
+splice(@) 
+toString(@) 
+unshift(@) 
+valueOf(@) 
+->Variable Operators
+var @ = @
+let @ = @
+const @ = @
+->Number Operators
+ +
+ -
+ * 
+ /
+ (@)
+ % 
+ ++ 
+ -- 
+->Comparison Operators
+ == 
+ === 
+ != 
+ !== 
+ > 
+ < 
+ >= 
+ <= 
+ ? 
+->Logical Operators
+ &&
+ ||
+ !
+->Bitwise Operators
+ &
+ |
+ ~
+ ^
+ <<
+ >>
+ >>>
+->Data output
+alert(@)
+confirm(@)
+console.log(@)	
+document.write(@)
+prompt(@)
+->Global Functions
+decodeURI(@)
+decodeURIComponent(@)
+encodeURI(@)
+encodeURIComponent(@)
+eval(@)
+isFinite(@)
+isNaN(@)
+Number(@)
+parseFloat(@)
+parseInt(@)
+->Javascript Loops
+for (@;@;@) {
+}
+while (@) {
+}
+do while (@) {
+}
+->If Else statements
+if (@) {
+}
+else {
+}
+->Escape Characters
+\' 
+\" 
+\\ 
+\b 
+\f 
+\n 
+\r 
+\t 
+\v 
+->String Methods
+charAt(@)
+charCodeAt(@)
+concat(@)
+fromCharCode(@)
+indexOf(@)
+lastIndexOf(@)
+match(@)
+replace(@)
+search(@)
+slice(@)
+split(@)
+substr(@)
+substring(@)
+toLowerCase(@)
+toUpperCase(@)
+valueOf(@)
+->
