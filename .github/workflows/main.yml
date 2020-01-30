@@ -11,4 +11,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: Convert now
       run: |
-       convert.bat
+       .\convert.bat
